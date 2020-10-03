@@ -1,0 +1,7 @@
+{
+  "name": "com.ga.sample",
+  "displayName": "Games Academy Sample Package",
+  "version": "0.0.1-preview",
+  "unity": "2018.4",
+  "description": "Sample Package."
+}
